@@ -15,5 +15,3 @@
 
 <img src="FSK_BPS_Block_Diagram.PNG" height="300" width="500"/>
 
-<h1>Test Scripts for FSK Tool</h1>
-<p>Two Testing Scripts are included to verify the long term performance of tool.  One will work with the LFM and the other will work with the E4422B Signal Generator</p>
